@@ -1,8 +1,9 @@
 # HA.OS handoff log
 
-See prior commits for kits 1-31.
-32 **Claude Content Engine** SKIP (2026-09-29) — covered by Playbooks + 105 tab.
+32 SKIP content engine.
+33 **Agent Business In A Box** YES-limited (2026-09-29)
+   `haos/business-in-a-box.md`
+   Full automation is not possible. Draft loop only.
 
 ## Next — wait yes/no
-Kit 33: **Agent Business In A Box** Drive `11q2-UYvc16hBmiFyjNKJtcwrQSgQRuqb`
-Default lean: SKIP (agency-in-a-box clone) unless owner says yes.
+Kit 34: **Cash Agents Deploy Kit** Drive `1hEdHPCZsDFKouRKyncSr0uQddVBUaBja`
