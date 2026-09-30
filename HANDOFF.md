@@ -1,7 +1,6 @@
 # HA.OS handoff log
 
-38 **$10K Money Map** YES-parked haos/10k-map.md
+39 **AI Millionaire p1** YES-cut haos/millionaire-playbook.md
 
 ## Next — wait yes/no
-Kit 39: **The AI Millionaire Playbook part 1** Drive `1PGZjj05MhG-SqoX2iPc_f2mxbuYLqSyY`
-Default SKIP.
+Kit 40: **The Deployment Gap** Drive `1-lXzJX51w3PJixjBdBqvhitlmp3CHcD3`
