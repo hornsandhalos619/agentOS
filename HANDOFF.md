@@ -1,9 +1,9 @@
 # HA.OS handoff log
 
 ## Done
-1-25 prior.
-26 **$5K Proposal Pack** YES-parked (2026-09-29)
-   `haos/proposal-pack.md`
+1-26 prior.
+27 **Hermes Agent OS 10 builds** YES (2026-09-29)
+   `haos/hermes-agent-os-10.md`
 
 ## Next — wait yes/no
-Kit 27: **The Hermes Agent OS (10 revenue builds)** Drive `1dbNC2T0htJXiRMEs0SenvcqThNX7BQ6O`
+Kit 28: **Founders Revenue Blueprint** Drive `1VJb010yE6_mNGJEO1nrCb9g5-fwVOYqx`
