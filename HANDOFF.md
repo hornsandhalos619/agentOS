@@ -8,14 +8,14 @@ Repo hornsandhalos619/agentOS · haos/ · cheap pipes only.
 3 Avatar NO
 4 Playbooks YES
 5 OpenClaw crew YES
-6 Claude blueprint DUPLICATE of 4
+6 Blueprint DUPLICATE of 4
 7 Hermes machine YES
-8 Hermes quick deploy YES — `$HOME/.haos/hermes-quick`
-9 Hermes 30 Day Roadmap BLOCKED (2026-09-29)
-   Skool https://www.skool.com/ai-profit-lab-7462/classroom/932bc3ab redirects to login/paywall.
-   Stand-in: `haos/hermes-quick/30-day.md`
-   Owner must log in to Skool (or paste the doc) before this kit is real.
+8 Hermes quick YES — $HOME/.haos/hermes-quick
+9 30-day BLOCKED on Skool login — stand-in 30-day.md
+10 Triple Threat YES (2026-09-29) — haos/TripleThreat.tsx
+   OpenClaw infra, Claude free-pipe seat, Hermes loop.
+   House path = Path 4 (own business), not sell $15K stacks.
 
-## Next — wait yes/no after login OR skip
-If owner logs in / pastes kit 9 text: replace 30-day.md with the official weeks.
-Else next kit 10: **AI Triple Threat Money Blueprint** Drive `1ruk9sYbDLXsXvElas2JpaNWLjC6tOOGO`
+## Next — wait yes/no
+Kit 11: **105 Agency-Level Money-Making Prompts** Drive `107juD8ij0BYo5WeuAMyl81NO5uzHXCHZ`
+If yes: do not dump 105 prompts into the UI. Pick 8 house prompts max.
