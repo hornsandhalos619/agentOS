@@ -1,9 +1,9 @@
 # HA.OS handoff log
 
 ## Done
-1-27 prior.
-28 **Founders Revenue Blueprint** YES-parked (2026-09-29)
-   `haos/founders-revenue.md` — do not put vault SOPs in this repo.
+1-28 prior.
+29 **50 Niches** YES (2026-09-29)
+   `haos/niches-50.md` — merch/e-com only.
 
 ## Next — wait yes/no
-Kit 29: **50 Highest Paying Niches** Drive `1hk4dQq1iNfa_2RrRSUh62PN_eyqChyvm`
+Kit 30: **Multi-Model Playbook** Drive `1emK4ahY7L565LYny1nKeO_61S6Z9Z34g`
