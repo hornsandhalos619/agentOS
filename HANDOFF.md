@@ -1,11 +1,10 @@
 # HA.OS handoff log
 
 ## Done
-1-15 prior.
-16 **HermesClaw Payday** YES (2026-09-29)
-   `haos/hermesclaw.md`
-   Hermes = front drafts. OpenClaw = files. Dual Desk = router.
-   First stream: affiliate copy for existing shop SKUs. No 48-hour payday claim.
+1-16 prior.
+17 **Claude $10K Agent Code** YES-parked (2026-09-29)
+   `haos/claude-10k-code.md`
+   Paid Managed Agents. Not wired. No new UI.
 
 ## Next — wait yes/no
-Kit 17: **The Claude $10K Agent Code** Drive `1-e0xh-gEzxnGFVQu4ZWqBFkpuHndAZ6V`
+Kit 18: **HermesClaw Millionaire Mode** Drive `11c-7YjBxgg9oF9UoDrOnVx_M7szd-PC2`
