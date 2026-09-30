@@ -1,0 +1,65 @@
+/* HA.OS house skin — overlays Midnight Aubergine without ripping routes. */
+
+:root {
+  --bg-deep: #0b0908;
+  --bg-mid: #14110e;
+  --bg-card: #1c1712;
+  --bg-elev: #2a2218;
+
+  --cream: #f1e6d0;
+  --cream-soft: #d4c4a8;
+  --cream-dim: #9a8a70;
+  --cream-mute: #6b5c48;
+
+  --gold: #c4a36a;
+  --gold-soft: #e0c48a;
+  --gold-deep: #8a6a3a;
+
+  --emerald: #6e9b78;
+  --emerald-dim: #3d6a4a;
+  --plum: #8b3a3a;
+  --rust: #a85a3a;
+
+  --line: rgba(196, 163, 106, 0.28);
+  --line-soft: rgba(241, 230, 208, 0.08);
+  --line-deep: rgba(241, 230, 208, 0.04);
+
+  --bg: var(--bg-deep);
+  --bg-2: var(--bg-mid);
+  --panel: rgba(28, 23, 18, 0.78);
+  --panel-border: var(--line-soft);
+  --panel-border-hot: var(--line);
+  --fg: var(--cream);
+  --fg-dim: var(--cream-soft);
+  --fg-dimmer: var(--cream-dim);
+
+  --accent-cyan: var(--gold);
+  --accent-violet: var(--gold);
+  --accent-pink: var(--plum);
+  --accent-lime: var(--emerald);
+  --accent-amber: var(--gold);
+  --accent-red: var(--plum);
+
+  --claude: var(--rust);
+  --openclaw: var(--gold-soft);
+  --hermes: var(--gold);
+}
+
+html, body {
+  background:
+    radial-gradient(1200px 600px at 12% -10%, rgba(196, 163, 106, 0.08), transparent 50%),
+    radial-gradient(900px 500px at 100% 0%, rgba(139, 58, 58, 0.12), transparent 45%),
+    var(--bg-deep) !important;
+  color: var(--cream);
+}
+
+.eyebrow {
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+h1, h2, .display {
+  font-family: "Cormorant Garamond", "Times New Roman", serif;
+  font-weight: 600;
+}
