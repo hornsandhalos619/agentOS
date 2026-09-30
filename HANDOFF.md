@@ -1,11 +1,11 @@
 # HA.OS handoff log
 
 ## Done
-1-14 prior.
-15 **8-Hour Agent Playbook GLM-5.1** YES (2026-09-29)
-   `haos/glm-8h.md`
-   Reuse existing /glm routes. Not a free local model.
-   No 1000-iteration loops. Token cap stays 8.
+1-15 prior.
+16 **HermesClaw Payday** YES (2026-09-29)
+   `haos/hermesclaw.md`
+   Hermes = front drafts. OpenClaw = files. Dual Desk = router.
+   First stream: affiliate copy for existing shop SKUs. No 48-hour payday claim.
 
 ## Next — wait yes/no
-Kit 16: **HermesClaw Payday Protocol** Drive `1edwB0BVye2XeaGSJebZ7Tt9yBow3azUS`
+Kit 17: **The Claude $10K Agent Code** Drive `1-e0xh-gEzxnGFVQu4ZWqBFkpuHndAZ6V`
