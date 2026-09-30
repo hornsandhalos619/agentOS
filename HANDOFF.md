@@ -23,22 +23,18 @@ One kit at a time. Summarize → wait yes/no → implement → audit → update 
 
 ### 2026-09-29 — Kit 2 Hermes + Claude Dual Desk (YES) + Claude backup
 - Spec + UI stub: `haos/DualDesk.tsx`, `haos/desk-page.tsx`
-- Claude fallback order (cheap first):
-  1. OmniRoute local free pool (existing `/omniroute`)
-  2. OpenRouter free models (`OPENROUTER_API_KEY`, model ids ending `:free`)
-  3. Claude Code CLI last (paid)
-- Token rules: no full history dump; last 8 turns max; system prompt under 400 chars; default model `openrouter/auto` or `:free`
-- Wire-up still needed inside unpacked source:
-  - copy DualDesk into `src/components/DualDesk.tsx`
-  - add `src/app/desk/page.tsx` from `haos/desk-page.tsx`
-  - Sidebar nav item `{ href: "/desk", label: "Dual Desk" }`
-  - TopBar title for `/desk`
+- Claude fallback order (cheap first): OmniRoute → OpenRouter `:free` → Claude CLI last
+- Token rules: 8 turns max, short system prompt
+- Wire-up still needed in unpacked source (see previous entry)
 
-## Next (paused for owner yes/no unless they already said continue)
+### 2026-09-29 — Kit 3 AI Avatar launch kit (NO)
+- Skipped. Not core HA.OS. Possible later content module only.
 
-Kit 3: **AI Avatar launch kit**  
-Drive file `1TXtFOzb198zyQJl4QMbrtC0y1BrdIAag`  
-Do not implement until owner says yes.
+## Next — waiting on owner yes/no
+
+Kit 4: **10 Minute Claude Profit Kit**  
+Drive PDF `1RQdpPtLioDdTEWW5XqeX6VWpR_K2Cwz7` (`claude_profit_blueprint (1).pdf`)
+Five Claude Desktop/CLI profit systems. Most need Claude Pro/Max/Team — conflicts with owner token-poor rule unless mapped onto OmniRoute/OpenRouter free pipes.
 
 ## Env (do not commit secrets)
 
