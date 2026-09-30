@@ -1,7 +1,7 @@
 # HA.OS handoff log
 
-36 **June Money Map** SKIP (2026-09-29)
+37 **One-Person $1M** YES-cut (2026-09-29) haos/one-person.md
 
 ## Next — wait yes/no
-Kit 37: **The One-Person $1M Blueprint** Drive `1AFeccloBiIYLV9_QWvForFiOZghnxrNM`
-Default SKIP (income-fantasy clone).
+Kit 38: **The $10K Money Map** Drive `1VrCDVEbf9AMEguLn7Asn_20_pBYKdRiv`
+Default SKIP.
