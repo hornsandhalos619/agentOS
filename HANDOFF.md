@@ -1,7 +1,7 @@
 # HA.OS handoff log
 
-37 **One-Person $1M** YES-cut (2026-09-29) haos/one-person.md
+38 **$10K Money Map** YES-parked haos/10k-map.md
 
 ## Next — wait yes/no
-Kit 38: **The $10K Money Map** Drive `1VrCDVEbf9AMEguLn7Asn_20_pBYKdRiv`
+Kit 39: **The AI Millionaire Playbook part 1** Drive `1PGZjj05MhG-SqoX2iPc_f2mxbuYLqSyY`
 Default SKIP.
