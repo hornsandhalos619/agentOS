@@ -1,10 +1,9 @@
 # HA.OS handoff log
 
 ## Done
-1-16 prior.
-17 **Claude $10K Agent Code** YES-parked (2026-09-29)
-   `haos/claude-10k-code.md`
-   Paid Managed Agents. Not wired. No new UI.
+1-17 prior (17 parked).
+18 **HermesClaw Millionaire Mode** YES (2026-09-29)
+   `haos/millionaire-mode.md` — 90 days rewritten around shop + HA.OS, not 50 DMs/day.
 
 ## Next — wait yes/no
-Kit 18: **HermesClaw Millionaire Mode** Drive `11c-7YjBxgg9oF9UoDrOnVx_M7szd-PC2`
+Kit 19: **HermesClaw Revenue Machine** Drive `1Cr1rPnyqCvbkgAFdoJ6xzlbM95G-o7Rs`
