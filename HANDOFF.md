@@ -1,14 +1,11 @@
 # HA.OS handoff log
 
 ## Done
-1-11 prior.
-12 **OpenClaw Automations Stack** YES (2026-09-29) also mapped to Hermes
-   `haos/automations-36k.md`
-   Five jobs: content, leads, outreach, intel, admin.
-   OpenClaw default home AND `$HOME/.haos/hermes-quick`.
-   Drafts only. ICA = merch/art shops not $15K agencies.
-   Model via OmniRoute.
+1-12 prior.
+13 **Hermes 10K Blueprint** YES (2026-09-29)
+   `haos/hermes-10k.md`
+   5 agents already exist (kits 7/8/12). No third Hermes home.
+   House: run the stack for SiXXX first. Do not use PDF cold-email proof claims.
 
 ## Next — wait yes/no
-Kit 13: **Hermes 10K Blueprint** Drive `1mNdd0DfEektZBscfsR8fntFlwc4bVCJE`
-If overlap with kits 7-8-12, only add net-new dollars math / offer, no third Hermes home.
+Kit 14: **Zero-Dollar Agency Blueprint** Drive `1KMIOpQoLcwguJwBa8TRavIQMYCH2t9BB`
