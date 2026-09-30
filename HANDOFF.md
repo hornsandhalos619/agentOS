@@ -1,9 +1,10 @@
 # HA.OS handoff log
 
 ## Done
-1-20 prior (20 skipped).
-21 **1K Day Blueprint** YES (2026-09-29)
-   `haos/1k-day.md` — five moves aimed at shop proof, not 20 LinkedIn DMs.
+1-21 prior.
+22 **Hermes 10K Autopilot** YES (2026-09-29)
+   `haos/hermes-autopilot.md` — GEPA skills stay in hermes-quick.
 
 ## Next — wait yes/no
-Kit 22: **Hermes 10K Autopilot** Drive `1d8owJMzkRVjGQ1-AX8PV12aZktOkeYVe`
+Kit 23: **Claude Profit Playbook** Drive `1ZhY9kRDlvGwt69TU2PHsr8BQM4x-TFrJ`
+Likely overlap with kits 4 and 6.
