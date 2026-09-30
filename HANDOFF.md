@@ -1,9 +1,9 @@
 # HA.OS handoff log
 
 ## Done
-1-24 prior.
-25 **Hermes $10K Fast Track** YES (2026-09-29)
-   `haos/fast-track.md`
+1-25 prior.
+26 **$5K Proposal Pack** YES-parked (2026-09-29)
+   `haos/proposal-pack.md`
 
 ## Next — wait yes/no
-Kit 26: **$5K Proposal Pack** Drive `1lR01uN2LwoH6KFFuMgDHIYea_43Mviq_`
+Kit 27: **The Hermes Agent OS (10 revenue builds)** Drive `1dbNC2T0htJXiRMEs0SenvcqThNX7BQ6O`
