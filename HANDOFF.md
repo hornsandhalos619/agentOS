@@ -1,9 +1,8 @@
 # HA.OS handoff log
 
 ## Done
-1-18 prior.
-19 **HermesClaw Revenue Machine** YES (2026-09-29)
-   `haos/revenue-machine.md` — streams ranked. Deploy duplicated, not repeated.
+1-19 prior.
+20 **Opus 4.7 Agent Payday** NO (2026-09-29) — paid Opus. Skipped.
 
 ## Next — wait yes/no
-Kit 20: **Opus 4.7 Agent Payday** Drive `1T66j_-ISVeVNPqLYRI3gTQCsX9zwv6Oa`
+Kit 21: **1K Day Blueprint** Drive `1nx1N6KJ5MF0deuMPjXIWo4tx-7v19uaH`
