@@ -1,7 +1,7 @@
 # HA.OS handoff log
 
-40 **Deployment Gap** YES-parked haos/deployment-gap.md
+41 **Million-Dollar AI Blueprint** SKIP (2026-09-29)
 
 ## Next — wait yes/no
-Kit 41: **Million-Dollar AI Blueprint** Drive `1WNQLwOBx8iFQoteg0Mn9c0NDBdYeATG6`
+Kit 42: **Solopreneur to CEO Millionaire Roadmap** Drive `1uXtw4lnm-WBcaOzILl2H8rAFxk0RpYZM`
 Default SKIP.
