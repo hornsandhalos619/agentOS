@@ -2,52 +2,57 @@
 
 Read this first. Do not re-download the 17MB pack unless you need source internals.
 Repo: `hornsandhalos619/agentOS`  
-Source of truth for chrome: `haos/`  
-Unpack target: `agent-os-pack-2026-08-16.zip` → `agent-os/source`
+Chrome overlays: `haos/`
 
-Owner wants token conservation. Prefer overlay files. Do not rewrite the whole Next app.
+Owner is token-poor. Cheap pipes only. Do not default to paid Anthropic.
 
 ## Mission
 
-Rebuild Agent OS as **HA.OS** (Horns & Halos / Project SiXXX).  
-Process: AIPB launch-kit list in Google Doc `15istWZcSARcNKCkmpyxWt55fgZmNXjlOnLCVNlB9UIk`.  
-One kit at a time. Summarize → wait yes/no → implement → audit → update this log → next kit.
+HA.OS = reskinned Agent OS for Horns & Halos / Project SiXXX.  
+Kit list: Google Doc `15istWZcSARcNKCkmpyxWt55fgZmNXjlOnLCVNlB9UIk`.  
+One kit at a time. Summarize → yes/no → implement → audit → update this file.
 
 ## Done
 
-### 2026-09-29 — Kit 1 Agent OS shell (YES)
-- Overlay: `haos/house.css`, `haos/layout.tsx`, `haos/HOUSE.md`
-- Skin: obsidian / brass / cordovan. Title HA.OS — Project SiXXX.
-- Functions kept: roster, CLI chat, voice, goals, journal, `~/.agentic-os/config.json`, localhost :3737
-- Not done: pixel-perfect restyle of every studio panel
+### Kit 1 Agent OS shell — YES (2026-09-29)
+`haos/house.css` `haos/layout.tsx` `haos/HOUSE.md`
 
-### 2026-09-29 — Kit 2 Hermes + Claude Dual Desk (YES) + Claude backup
-- Spec + UI stub: `haos/DualDesk.tsx`, `haos/desk-page.tsx`
-- Claude fallback order (cheap first): OmniRoute → OpenRouter `:free` → Claude CLI last
-- Token rules: 8 turns max, short system prompt
-- Wire-up still needed in unpacked source (see previous entry)
+### Kit 2 Dual Desk + Claude backup — YES (2026-09-29)
+`haos/DualDesk.tsx` `haos/desk-page.tsx`
+Wire `/desk` into unpacked source sidebar when editing the zip tree.
 
-### 2026-09-29 — Kit 3 AI Avatar launch kit (NO)
-- Skipped. Not core HA.OS. Possible later content module only.
+### Kit 3 AI Avatar — NO (2026-09-29)
+Skipped.
 
-## Next — waiting on owner yes/no
+### Kit 4 10-Minute Claude Profit Kit — YES (2026-09-29)
+- `haos/Playbooks.tsx` `haos/playbooks-page.tsx` — five short playbooks
+- `haos/free-pipes.md` — OmniRoute + free Claude Code + OpenRouter + Cloudflare
+- Fallback now: OmniRoute → OpenRouter `:free` → Cloudflare Workers AI → Claude CLI last
+- Claude Code via `omniroute setup-claude` and `omniroute launch --profile auto-coding-free`
+- Cloudflare: 10k neurons/day, small models (`@cf/meta/llama-3.1-8b-instruct`)
+- Still need `/playbooks` route + sidebar item in unpacked Next source
 
-Kit 4: **10 Minute Claude Profit Kit**  
-Drive PDF `1RQdpPtLioDdTEWW5XqeX6VWpR_K2Cwz7` (`claude_profit_blueprint (1).pdf`)
-Five Claude Desktop/CLI profit systems. Most need Claude Pro/Max/Team — conflicts with owner token-poor rule unless mapped onto OmniRoute/OpenRouter free pipes.
+## Next — wait for owner yes/no
 
-## Env (do not commit secrets)
+Kit 5: **OpenClaw Agent Revenue Team Kit**  
+Drive `1O77NTeyMCnnAjri6Xionm477Elz7-dCy`
+
+## Env (never commit)
 
 ```
 OPENROUTER_API_KEY=
-HAOS_CLAUDE_FALLBACK=omniroute,openrouter-free,claude-cli
+OPENROUTER_MODEL=openrouter/free
+CLOUDFLARE_ACCOUNT_ID=
+CLOUDFLARE_API_TOKEN=
+CLOUDFLARE_MODEL=@cf/meta/llama-3.1-8b-instruct
+HAOS_CLAUDE_FALLBACK=omniroute,openrouter-free,cloudflare,claude-cli
 HAOS_MAX_TURNS=8
 ```
 
-## Rules for the next agent
+## Rules
 
-1. Update this file after every completed step.
-2. Prefer new files under `haos/` over editing the zip.
-3. Do not push the 17MB zip again.
-4. Do not invent paid APIs as default.
-5. Project SiXXX site (`projectsixxx-next`) is separate; HA.OS is the local operator shell.
+1. Update this file after every step.
+2. New work lives under `haos/`.
+3. Do not push the 17MB zip.
+4. No paid default APIs.
+5. `projectsixxx-next` is a different repo.
