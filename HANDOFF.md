@@ -1,21 +1,14 @@
 # HA.OS handoff log
 
-Repo hornsandhalos619/agentOS · haos/ · cheap pipes only.
-
 ## Done
-1 Shell YES
-2 Dual Desk YES
-3 Avatar NO
-4 Playbooks YES
-5 OpenClaw crew YES
-6 Blueprint DUPLICATE of 4
-7 Hermes machine YES
-8 Hermes quick YES — $HOME/.haos/hermes-quick
-9 30-day BLOCKED on Skool login — stand-in 30-day.md
-10 Triple Threat YES (2026-09-29) — haos/TripleThreat.tsx
-   OpenClaw infra, Claude free-pipe seat, Hermes loop.
-   House path = Path 4 (own business), not sell $15K stacks.
+1-10 as before (shell, desk, avatar NO, playbooks, claw crew, kit6 dup, hermes machine, hermes-quick path, 30-day gated, triple threat).
+11 **105 Agency Prompts** YES (2026-09-29)
+   Tab name: 105 Agency-Level Money-Making Prompts
+   Files: haos/AgencyPrompts.tsx haos/agency-prompts-page.tsx haos/prompts105.ts (catalog)
+   All 105 kept. Bands: now (29) / later (64) / skip (12)
+   NOW (do this week on free pipes): 001 002 007 012 015 016 017 018 019 025 029 030 036 074 076 077 078 079 081 084 085 086 087 088 089 091 098 102 105
+   SKIP: 014 047 050 052 057 059 066 069 070 075 090 100 (grants, papers, patents, hiring, HR, exit, livestream, speaking)
+   Source PDF still has full prompt bodies (Drive 107juD8ij0BYo5WeuAMyl81NO5uzHXCHZ). Do not paste all 105 bodies into the UI.
 
 ## Next — wait yes/no
-Kit 11: **105 Agency-Level Money-Making Prompts** Drive `107juD8ij0BYo5WeuAMyl81NO5uzHXCHZ`
-If yes: do not dump 105 prompts into the UI. Pick 8 house prompts max.
+Kit 12: **[Save 36K] OpenClaw Automations Stack** Drive `1ZThWy8CNnr_QNZiPSYFkGgBx2lRibSP5`
